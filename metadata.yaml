@@ -1,0 +1,32 @@
+_repo: The-Kansas-University-science-bulletin-Vol-I-No-8-September-1902_71514
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-08-28'
+identifiers:
+  gutenberg: '71514'
+language: en
+pgterms:marc904:
+- view=1up
+- https://babel.hathitrust.org/cgi/pt?id=uc1.649338
+- seq=193
+pgterms:marc905: 20161111120231various
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLawrence :$bKansas University, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Kansas University science bulletin, Vol. I, No. 8, September 1902
+url: http://www.gutenberg.org/ebooks/71514
